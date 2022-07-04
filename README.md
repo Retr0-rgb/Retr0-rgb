@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Retr0
+- 👀 I’m interested in HTML/CSS/JS/C++/C/Python
+- 🌱 I’m currently learning C++
